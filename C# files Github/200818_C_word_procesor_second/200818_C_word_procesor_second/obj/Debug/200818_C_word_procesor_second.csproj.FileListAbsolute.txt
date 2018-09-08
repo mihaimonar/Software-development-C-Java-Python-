@@ -1,0 +1,29 @@
+X:\SwDev13\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\bin\Debug\200818_C_word_procesor_second.exe.config
+X:\SwDev13\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\bin\Debug\200818_C_word_procesor_second.exe
+X:\SwDev13\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\bin\Debug\200818_C_word_procesor_second.pdb
+X:\SwDev13\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.csprojResolveAssemblyReference.cache
+X:\SwDev13\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\_200818_C_word_procesor_second.Form1.resources
+X:\SwDev13\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\_200818_C_word_procesor_second.Properties.Resources.resources
+X:\SwDev13\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.csproj.GenerateResource.cache
+X:\SwDev13\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.csproj.CoreCompileInputs.cache
+X:\SwDev13\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.exe
+X:\SwDev13\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.pdb
+E:\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\bin\Debug\200818_C_word_procesor_second.exe.config
+E:\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\bin\Debug\200818_C_word_procesor_second.exe
+E:\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\bin\Debug\200818_C_word_procesor_second.pdb
+E:\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.csprojAssemblyReference.cache
+E:\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\_200818_C_word_procesor_second.Form1.resources
+E:\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\_200818_C_word_procesor_second.Properties.Resources.resources
+E:\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.csproj.GenerateResource.cache
+E:\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.csproj.CoreCompileInputs.cache
+E:\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.exe
+E:\C# 25-06-18\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.pdb
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\200818_C_word_procesor_second\200818_C_word_procesor_second\bin\Debug\200818_C_word_procesor_second.exe.config
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\200818_C_word_procesor_second\200818_C_word_procesor_second\bin\Debug\200818_C_word_procesor_second.exe
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\200818_C_word_procesor_second\200818_C_word_procesor_second\bin\Debug\200818_C_word_procesor_second.pdb
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\_200818_C_word_procesor_second.Form1.resources
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\_200818_C_word_procesor_second.Properties.Resources.resources
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.csproj.GenerateResource.cache
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.csproj.CoreCompileInputs.cache
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.exe
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\200818_C_word_procesor_second\200818_C_word_procesor_second\obj\Debug\200818_C_word_procesor_second.pdb

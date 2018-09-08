@@ -1,0 +1,19 @@
+X:\SwDev13\C# 25-06-18\230718_C_GUI_calculator\230718_C_GUI_calculator\bin\Debug\230718_C_GUI_calculator.exe.config
+X:\SwDev13\C# 25-06-18\230718_C_GUI_calculator\230718_C_GUI_calculator\bin\Debug\230718_C_GUI_calculator.exe
+X:\SwDev13\C# 25-06-18\230718_C_GUI_calculator\230718_C_GUI_calculator\bin\Debug\230718_C_GUI_calculator.pdb
+X:\SwDev13\C# 25-06-18\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\230718_C_GUI_calculator.csprojResolveAssemblyReference.cache
+X:\SwDev13\C# 25-06-18\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\_230718_C_GUI_calculator.Form1.resources
+X:\SwDev13\C# 25-06-18\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\_230718_C_GUI_calculator.Properties.Resources.resources
+X:\SwDev13\C# 25-06-18\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\230718_C_GUI_calculator.csproj.GenerateResource.cache
+X:\SwDev13\C# 25-06-18\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\230718_C_GUI_calculator.csproj.CoreCompileInputs.cache
+X:\SwDev13\C# 25-06-18\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\230718_C_GUI_calculator.exe
+X:\SwDev13\C# 25-06-18\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\230718_C_GUI_calculator.pdb
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\230718_C_GUI_calculator\230718_C_GUI_calculator\bin\Debug\230718_C_GUI_calculator.exe.config
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\230718_C_GUI_calculator\230718_C_GUI_calculator\bin\Debug\230718_C_GUI_calculator.exe
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\230718_C_GUI_calculator\230718_C_GUI_calculator\bin\Debug\230718_C_GUI_calculator.pdb
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\_230718_C_GUI_calculator.Form1.resources
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\_230718_C_GUI_calculator.Properties.Resources.resources
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\230718_C_GUI_calculator.csproj.GenerateResource.cache
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\230718_C_GUI_calculator.csproj.CoreCompileInputs.cache
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\230718_C_GUI_calculator.exe
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\230718_C_GUI_calculator\230718_C_GUI_calculator\obj\Debug\230718_C_GUI_calculator.pdb

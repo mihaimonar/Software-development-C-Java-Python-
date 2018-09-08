@@ -1,0 +1,28 @@
+X:\SwDev13\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\bin\Debug\160818_C_MOck3.exe.config
+X:\SwDev13\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\bin\Debug\160818_C_MOck3.exe
+X:\SwDev13\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\bin\Debug\160818_C_MOck3.pdb
+X:\SwDev13\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.csprojResolveAssemblyReference.cache
+X:\SwDev13\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\_160818_C_MOck3.frmEstimate.resources
+X:\SwDev13\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\_160818_C_MOck3.Properties.Resources.resources
+X:\SwDev13\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.csproj.GenerateResource.cache
+X:\SwDev13\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.csproj.CoreCompileInputs.cache
+X:\SwDev13\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.exe
+X:\SwDev13\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.pdb
+E:\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\bin\Debug\160818_C_MOck3.exe.config
+E:\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\bin\Debug\160818_C_MOck3.exe
+E:\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\bin\Debug\160818_C_MOck3.pdb
+E:\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\_160818_C_MOck3.frmEstimate.resources
+E:\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\_160818_C_MOck3.Properties.Resources.resources
+E:\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.csproj.GenerateResource.cache
+E:\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.csproj.CoreCompileInputs.cache
+E:\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.exe
+E:\C# 25-06-18\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.pdb
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\160818_C_MOck3\160818_C_MOck3\bin\Debug\160818_C_MOck3.exe.config
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\160818_C_MOck3\160818_C_MOck3\bin\Debug\160818_C_MOck3.exe
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\160818_C_MOck3\160818_C_MOck3\bin\Debug\160818_C_MOck3.pdb
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\160818_C_MOck3\160818_C_MOck3\obj\Debug\_160818_C_MOck3.frmEstimate.resources
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\160818_C_MOck3\160818_C_MOck3\obj\Debug\_160818_C_MOck3.Properties.Resources.resources
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.csproj.GenerateResource.cache
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.csproj.CoreCompileInputs.cache
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.exe
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\160818_C_MOck3\160818_C_MOck3\obj\Debug\160818_C_MOck3.pdb

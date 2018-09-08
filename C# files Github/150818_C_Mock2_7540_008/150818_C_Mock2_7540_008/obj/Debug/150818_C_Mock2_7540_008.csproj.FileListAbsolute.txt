@@ -1,0 +1,30 @@
+X:\SwDev13\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.csprojResolveAssemblyReference.cache
+X:\SwDev13\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\_150818_C_Mock2_7540_008.Form1.resources
+X:\SwDev13\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\_150818_C_Mock2_7540_008.Properties.Resources.resources
+X:\SwDev13\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.csproj.GenerateResource.cache
+X:\SwDev13\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.csproj.CoreCompileInputs.cache
+X:\SwDev13\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\bin\Debug\150818_C_Mock2_7540_008.exe.config
+X:\SwDev13\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\bin\Debug\150818_C_Mock2_7540_008.exe
+X:\SwDev13\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\bin\Debug\150818_C_Mock2_7540_008.pdb
+X:\SwDev13\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.exe
+X:\SwDev13\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.pdb
+E:\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\bin\Debug\150818_C_Mock2_7540_008.exe.config
+E:\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\bin\Debug\150818_C_Mock2_7540_008.exe
+E:\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\bin\Debug\150818_C_Mock2_7540_008.pdb
+E:\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.csprojAssemblyReference.cache
+E:\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\_150818_C_Mock2_7540_008.Form1.resources
+E:\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\_150818_C_Mock2_7540_008.Properties.Resources.resources
+E:\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.csproj.GenerateResource.cache
+E:\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.csproj.CoreCompileInputs.cache
+E:\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.exe
+E:\C# 25-06-18\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.pdb
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\bin\Debug\150818_C_Mock2_7540_008.exe.config
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\bin\Debug\150818_C_Mock2_7540_008.exe
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\bin\Debug\150818_C_Mock2_7540_008.pdb
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.csprojAssemblyReference.cache
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\_150818_C_Mock2_7540_008.Form1.resources
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\_150818_C_Mock2_7540_008.Properties.Resources.resources
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.csproj.GenerateResource.cache
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.csproj.CoreCompileInputs.cache
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.exe
+C:\Users\MIHAIMONAR\Desktop\for github\C# files Github\150818_C_Mock2_7540_008\150818_C_Mock2_7540_008\obj\Debug\150818_C_Mock2_7540_008.pdb

@@ -1,0 +1,188 @@
+public partial class Form1 : Form
+    {
+
+        string strSelectedCity;
+      
+
+
+        public Form1()
+        {
+            InitializeComponent();
+            strSelectedCity ="London";
+            radStand.Checked = true;
+            radLondon.Checked = true;
+            chkReturn.Checked = false;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            pnlDisplay.Visible = false;
+        }
+
+        
+        private void radLondon_CheckedChanged(object sender, EventArgs e)
+        {
+            strSelectedCity = "London";
+        }
+
+        private void radManchester_CheckedChanged(object sender, EventArgs e)
+        {
+            strSelectedCity = "Manchester";
+        }
+
+        private void radLiver_CheckedChanged(object sender, EventArgs e)
+        {
+            strSelectedCity = "Liverpool";
+
+        }
+
+        private void radNewCas_CheckedChanged(object sender, EventArgs e)
+        {
+            strSelectedCity = "NewCastle";
+        }
+
+        
+
+        private void IsNumeric(TextBox textboxToCheck) { 
+            try
+            {
+                    if (textboxToCheck.Text !="")
+                        double.Parse(textboxToCheck.Text);
+            }
+
+            catch (Exception) {
+                MessageBox.Show("Entries must be numeric");
+                textboxToCheck.Text = "";
+                textboxToCheck.Focus();
+             }
+        }
+
+
+        private void txtPriceBox1_TextChanged(object sender, EventArgs e)
+        {
+
+            IsNumeric(txtPriceBox1);
+
+
+
+        }
+
+        private void txtPriceBox2_TextChanged(object sender, EventArgs e)
+        {
+            IsNumeric(txtPriceBox2);
+        }
+
+        private void txtPriceBox3_TextChanged(object sender, EventArgs e)
+        {
+            IsNumeric(txtPriceBox3);
+        }
+
+        private void txtPriceBox4_TextChanged(object sender, EventArgs e)
+        {
+            IsNumeric(txtPriceBox4);
+        }
+
+        private void btnGO_Click(object sender, EventArgs e)
+        {
+             if (string.IsNullOrEmpty(textBox1.Text) || (string.IsNullOrEmpty(txtPriceBox1.Text) || (string.IsNullOrEmpty(txtPriceBox2.Text)
+             || (string.IsNullOrEmpty(txtPriceBox3.Text) || (string.IsNullOrEmpty(txtPriceBox4.Text))))))
+                
+                MessageBox.Show("Exchange rate or Prices not entered");
+
+            else
+            {
+                pnlDisplay.Visible = true;
+                lblCostPerFlight.Visible = false;
+                txtPriceBox1.Visible = false;
+                txtPriceBox2.Visible = false;
+                txtPriceBox3.Visible = false;
+                txtPriceBox4.Visible = false;
+                lblEuroFlight.ForeColor = Color.Blue;
+                dateTimePicker2.Visible = false;
+                lblReturnDate.Visible = false;
+                chkReturn.Checked = false;
+            }
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnCal_Click(object sender, EventArgs e)
+        {
+            double dblCost = 0; ;
+            double dblbaggageCost = 0;
+
+            try
+            {
+                switch (strSelectedCity)
+                {
+                    case "London": dblCost = double.Parse(txtPriceBox1.Text); break;
+                    case "Manchester": dblCost = double.Parse(txtPriceBox2.Text); break;
+                    case "Liverpool": dblCost = double.Parse(txtPriceBox3.Text); break;
+                    case "NewCastle": dblCost = double.Parse(txtPriceBox4.Text); break;
+
+                }
+
+                if (radStand.Checked)
+                    dblbaggageCost = 10;
+                else
+                    dblbaggageCost *= 1.5;
+
+                dblCost += dblbaggageCost;
+
+                if (chkReturn.Checked)
+                    dblCost *= 1.6;
+
+                textBox2.Text = Convert.ToString(dblCost);
+                textBox3.Text = Convert.ToString(dblCost* 1.23);
+                textBox4.Text = Convert.ToString(dblCost * Convert.ToDouble(textBox1.Text));
+                textBox5.Text = Convert.ToString((dblCost * 1.23) * Convert.ToDouble(textBox1.Text));
+
+
+
+
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Entries must be numeric");
+            }
+
+
+
+
+
+
+
+
+        }
+
+       
+
+        private void chkReturn_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkReturn.Checked)
+            {
+                lblReturnDate.Visible = true;
+                dateTimePicker2.Visible = true;
+            }
+            else
+            {
+                lblReturnDate.Visible = false;
+                dateTimePicker2.Visible = false;
+            }
+        }
+
+       
+
+        private void dateTimePicker2_ValueChanged(object sender, EventArgs e)
+        {
+            if (dateTimePicker2.Value.Date.CompareTo(dateTimePicker1.Value.Date) < 0)
+            {
+                MessageBox.Show("Departure date must be earlier than arrival date");
+                dateTimePicker2.Value = System.DateTime.Now;
+            }
+        }
+
+        
